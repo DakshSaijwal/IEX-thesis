@@ -1,0 +1,20 @@
+# Indian Energy Exchange Ltd - approximate public figures, INR crore unless noted
+# Sources: Screener.in, Business Standard, company press coverage, approx Sept 2026
+# VERIFY every figure against IEX's own filings before presenting this model.
+metric,value,unit,source_note
+current_share_price,113.90,INR,confirmed 13-Sep-2026 kotakneo.com live quote; highly volatile, re-verify if presenting later
+market_capitalisation_confirmed,10517.52,INR Cr,confirmed 13-Sep-2026 indmoney.com
+market_capitalisation,10155,INR Cr,Screener.in approx Sept 2026
+ttm_revenue,624,INR Cr,Screener.in TTM
+ttm_net_profit,487,INR Cr,Screener.in TTM
+ttm_pat_margin,78.0,pct,derived
+fy26_iex_traded_volume,145,billion units,derived from FY25 121 BU x ~1.20 YoY growth
+fy25_iex_traded_volume,121,billion units,reported
+current_market_share_dam,87,pct,widely reported 85-90pct range; midpoint used
+aug_2026_monthly_volume,13.94,billion units,reported, +20.2pct YoY
+q4fy26_net_profit,129.77,INR Cr,reported, +10.81pct YoY
+q4fy26_net_profit_prior,117.1,INR Cr,Q4FY25 reported for comparison
+dividend_per_share_fy26,2.00,INR,declared 23 Apr 2026
+52wk_high_approx,244,INR,Sept 2024
+supreme_court_case_status,pending,text,SC agreed to examine IEX plea vs market coupling; no ruling date as of Sept 2026
+grid_india_technical_objections,raised,text,Apr 2026 draft CERC regulations comment period
